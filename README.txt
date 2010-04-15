@@ -1,0 +1,1 @@
+this app will open gmail link in android
