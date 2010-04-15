@@ -1,0 +1,28 @@
+8
+
+dir
+3210
+svn://192.168.1.166/Android/App/LinkGmail/res/values
+svn://192.168.1.166
+
+
+
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+strings.xml
+file
+
+
+
+
+2010-03-26T08:53:49.843750Z
+726906b977a44c62a847a6ccd679e0a7
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+

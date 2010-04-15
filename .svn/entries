@@ -1,0 +1,91 @@
+8
+
+dir
+3208
+svn://192.168.1.166/Android/App/LinkGmail
+svn://192.168.1.166
+
+
+
+2010-03-26T09:14:32.642625Z
+3207
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+14dcb4fb-91d8-b848-8d5f-665834ed7738
+
+default.properties
+file
+3210
+
+
+
+2010-03-26T08:47:22.468750Z
+38c55e571b5c07b175157e8005dbc45d
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+.classpath
+file
+3210
+
+
+
+2010-03-26T08:47:22.468750Z
+8ec20b14df17ef83253beda6c391f516
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+assets
+dir
+
+.project
+file
+3210
+
+
+
+2010-03-26T08:47:22.359375Z
+b767ab739361e44513b42a5b363af9dc
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+AndroidManifest.xml
+file
+3210
+
+
+
+2010-03-26T08:47:22.437500Z
+56300a5dd4e46c8a531909dea5966dc8
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+src
+dir
+
+bin
+dir
+
+gen
+dir
+
+res
+dir
+

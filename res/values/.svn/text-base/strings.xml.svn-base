@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LinkGmail!</string>
+    <string name="app_name">Gmail</string>
+<string name="link_page">http://www.gmail.com/</string>
+</resources>

@@ -1,0 +1,19 @@
+8
+
+dir
+3210
+svn://192.168.1.166/Android/App/LinkGmail/gen
+svn://192.168.1.166
+
+
+
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+com
+dir
+

@@ -1,0 +1,28 @@
+8
+
+dir
+3210
+svn://192.168.1.166/Android/App/LinkGmail/src/com/camangi/linkgmail
+svn://192.168.1.166
+
+
+
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+LinkGmail.java
+file
+
+
+
+
+2010-03-26T08:49:05.265625Z
+2cef09f42547212a7e73be310251be9f
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+

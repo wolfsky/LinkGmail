@@ -1,0 +1,29 @@
+8
+
+dir
+3210
+svn://192.168.1.166/Android/App/LinkGmail/res/drawable
+svn://192.168.1.166
+
+
+
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+icon.png
+file
+
+
+
+
+2010-03-26T08:49:28.640625Z
+bc1481815838e0a240c4a6520e8289d5
+2010-03-26T09:16:23.236375Z
+3210
+kevin
+has-props
+
